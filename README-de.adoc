@@ -1,4 +1,4 @@
-= Asciidoctor
+Nicholas Olsen= Asciidoctor
 Dan Allen <https://github.com/mojavelinux[@mojavelinux]>; Sarah White <https://github.com/graphitefriction[@graphitefriction]>
 // settings:
 :idprefix:
